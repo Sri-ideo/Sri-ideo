@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sri-ideo
+- 👀 I’m interested in Video analytics and more generally in Data Analytics
+- 💞️ I’m looking to collaborate on my two interests above, focused on CCTV based video analytics and the domains of Retail, Business Services and Elder Home Care
+- 📫 You can reach me at sri@ideotics.com
